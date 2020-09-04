@@ -3,11 +3,14 @@
 ### 👋 hi there! I'm [Light](https://light-yt.github.io)
 <a href="https://twitter.com/intent/follow?screen_name=Light_iDev">
     <img align="left" alt="Twitter" width="20px" src="https://raw.githubusercontent.com/syns/syns/master/assets/icons/twitter.svg">
+</a>
+
 <br/>
 <br/>
 
 I'm an American developer I'm 16 and I started to introduce myself to the Jailbreak world about 1 year ago.
-I'm interested in developing exploits and searching for bugs in the iOS kernel; I've developed one for now and will make it available to everyone very soon. :)
+
+I'm interested in developing exploits and searching for bugs in the iOS kernel.
 
 <a href="#"><img src="https://i.imgur.com/y4oV9VV.png" alt="colored line"></a>
 
