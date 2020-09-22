@@ -1,6 +1,6 @@
 <img align="left" alt="Avatar" width="200px" src="https://avatars0.githubusercontent.com/u/62912558?s=400&u=3e0bad0aaaff94ba193a7449599dcc602795cbea&v=4" />
 
-### 👋 Hi there! I'm [Light](https://light-yt.github.io)
+### Hi there! I'm [Light](https://light-yt.github.io) 👋 
 <a href="https://twitter.com/intent/follow?screen_name=Light_iDev">
     <img align="left" alt="Twitter" width="20px" src="https://raw.githubusercontent.com/syns/syns/master/assets/icons/twitter.svg">
 </a>
